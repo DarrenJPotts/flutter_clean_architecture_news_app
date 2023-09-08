@@ -42,6 +42,7 @@ dependencies:
   retrofit: ^4.0.1
   flutter_hooks: ^0.20.1
   cached_network_image: ^3.2.3
+  ionicons: ^0.2.2
 
 dev_dependencies:
   flutter_test:
@@ -87,9 +88,9 @@ flutter:
     - family: Muli
       fonts:
         - asset: assets/fonts/Muli.ttf
-        - asset: fonts/Muli-Bold.ttf
+        - asset: assets/fonts/Muli-Bold.ttf
           weight: 700
-        - asset: fonts/Muli-Light.ttf
+        - asset: assets/fonts/Muli-Light.ttf
           weight: 300
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
